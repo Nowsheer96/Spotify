@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = (function(a,b){return {"/[locale]/download":[a],"/[locale]/download/[platform]":[a,b],"/_error":[b]}}("static\u002Fchunks\u002Fcc016034b9c3fe9cdf1f85d2e0438116d5fd90db.52b8fff2b331b6418ffb.js","static\u002Fchunks\u002F8a809ceb6011644a1a0e987568be391377e5344c.70b324148ee04d5777f3.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
